@@ -1,3 +1,3 @@
-# Ngamia
-Ngamia Code Challenge
+# Ease
+Ease Code Challenge
 Transporter Application
